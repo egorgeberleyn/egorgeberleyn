@@ -1,7 +1,6 @@
 ## Hi there 🐱‍👤
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=88C0D0&width=435&lines=I'm+software+enginneer)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=egorgeberleyn&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=egorgeberleyn&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=egorgeberleyn&theme=nord_dark&utcOffset=8)
 
 ## My Stack 🐱‍👓
